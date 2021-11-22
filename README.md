@@ -1,2 +1,1 @@
-Meow
-s
+Create a remote branch on Github using the API
